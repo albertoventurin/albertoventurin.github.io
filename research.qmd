@@ -1,0 +1,24 @@
+---
+
+---
+
+## Working papers
+
+### Fleeing the Crowded Nest: Siblings and Leaving the Parental Home
+
+with [Adriano De Falco](https://www.adrianodefalco.com/home-page) and [Elia Moracci](https://eliamoracci.github.io/)
+
+:::{.collapse=true}
+We investigate whether the decision of young adults on when to leave the parental
+home is influenced by the number of siblings they have, in the context of European
+countries over the last seventy years. Exploiting random variation in sibship size
+induced by twin births, we identify the causal effect of having an extra sibling on
+the timing of home-leaving. We find that one additional sibling speeds up the
+transition to independent living by one year. We provide evidence that the main
+mechanism behind our results is a decrease in the value of inter-generational co-
+residence, as having an extra sibling entails higher privacy costs associated with
+living in a more crowded nest. We furthermore document response heterogeneity
+by groups of countries, with Western European countries displaying the largest
+responses. Our findings suggest that demographic trends may have attenuated the
+gap in co-residence rates across different European regions.
+:::

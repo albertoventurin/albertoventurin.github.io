@@ -1,0 +1,21 @@
+---
+title: "Alberto Venturin"
+image: picture.JPG
+about: 
+  template: trestles
+  image-shape: rounded
+  links: 
+    - text: Linkedin
+      href: www.linkedin.com/in/alberto-venturin
+    - text: GitHub
+      href: https://github.com/albertoventurin
+    - text: Email
+      href: mailto:alberto.venturin@eui.eu
+      
+---
+# Welcome !
+
+I am a 3rd-year PhD candidate in Economics at the European University Institute (EUI) in Florence, Italy, under the supervision of [Thomas Crossley](https://sites.google.com/site/tfcrossley/) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).
+
+My main research interests are applied microeconomics and causal inference, with a particular focus on family economics, health economics and labor economics.
+
