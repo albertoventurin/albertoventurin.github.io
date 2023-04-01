@@ -2,23 +2,23 @@
 title: "Alberto Venturin"
 format: 
   html:
-    #page-layout: full
+    page-layout: article
     toc: false
 engine: knitr
 ---
 <br>
 
-:::{.columns}
+:::{.grid}
 
-:::{.column  width="60%"}
+:::{.g-col-8}
 ![](assets/pic-square.png)
 :::
 
-:::{.column width="10%"}
+<!-- :::{.g} -->
 
-:::
+<!-- ::: -->
 
-:::{.column width="30%"}
+:::{.g-col-4}
 
 
 ### Welcome ! 
