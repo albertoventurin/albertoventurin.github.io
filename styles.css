@@ -1,0 +1,14 @@
+/* css styles */
+
+/* center all titles*/
+.title {
+  text-align: center;
+}
+
+/* set header color */
+
+h1, h2, h3 {
+  text-align: center;
+  color: $header-color;
+} 
+
