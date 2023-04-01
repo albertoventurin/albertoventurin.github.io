@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+//
+// Colors
+//
+
+$light-grey: #e8f1f2;
+$grey: #8b8c89;
+$bright-blue: #1b98e0;
+$light-blue: #247ba0;
+$medium-blue: #006494;
+$navy-blue: #03256c;
+$dark-blue: #13293d;
+
+// Navbar
+
+$navbar-bg: $light-grey;
+$navbar-fg: $medium-blue;
+$navbar-hl: $light-blue;
+$body-bg: $light-grey;
+$body-color: $grey;
+$link-color: $bright-blue;
+$header-color: $navy-blue;
+
+// properties of elements
+
+// headers
+h1, h2, h3 {
+  text-align: center;
+  color: $header-color;
+} 
+
+// title of papers
+.paper-title {
+  text-align: left;
+  color: $header-color;
+}
+
+// teaching courses
+
+.course {
+  text-decoration-line: underline;
+  color: $medium-blue;
+}

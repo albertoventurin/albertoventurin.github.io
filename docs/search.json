@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "",
+    "section": "",
+    "text": "You can find my CV here"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "albertoventurin.github.io",
+    "title": "",
     "section": "",
-    "text": "Working papers\n\nFleeing the Crowded Nest: Siblings and Leaving the Parental Home\nwith Adriano De Falco and Elia Moracci\nWe investigate whether the decision of young adults on when to leave the parental home is influenced by the number of siblings they have, in the context of European countries over the last seventy years. Exploiting random variation in sibship size induced by twin births, we identify the causal effect of having an extra sibling on the timing of home-leaving. We find that one additional sibling speeds up the transition to independent living by one year. We provide evidence that the main mechanism behind our results is a decrease in the value of inter-generational co- residence, as having an extra sibling entails higher privacy costs associated with living in a more crowded nest. We furthermore document response heterogeneity by groups of countries, with Western European countries displaying the largest responses. Our findings suggest that demographic trends may have attenuated the gap in co-residence rates across different European regions."
+    "text": "Working papers\n\nFleeing the Crowded Nest: Siblings and Leaving the Parental Home\nwith Adriano De Falco and Elia Moracci\nWe investigate whether the decision of young adults on when to leave the parental home is influenced by the number of siblings they have, in the context of European countries over the last seventy years. Exploiting random variation in sibship size induced by twin births, we identify the causal effect of having an extra sibling on the timing of home-leaving. We find that one additional sibling speeds up the transition to independent living by one year. We provide evidence that the main mechanism behind our results is a decrease in the value of inter-generational co- residence, as having an extra sibling entails higher privacy costs associated with living in a more crowded nest. We furthermore document response heterogeneity by groups of countries, with Western European countries displaying the largest responses. Our findings suggest that demographic trends may have attenuated the gap in co-residence rates across different European regions.\n\n\n\nWork in progress\n\nFertility timing and children outcomes"
   },
   {
     "objectID": "about.html",
@@ -18,6 +25,20 @@
     "href": "index.html",
     "title": "Alberto Venturin",
     "section": "",
-    "text": "Welcome !\nI am a 3rd-year PhD candidate in Economics at the European University Institute (EUI) in Florence, Italy, under the supervision of Thomas Crossley and Alessandro Tarozzi.\nMy main research interests are applied microeconomics and causal inference, with a particular focus on family economics, health economics and labor economics."
+    "text": ":::"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Alberto Venturin",
+    "section": "",
+    "text": "EUI Department of Economics, Villa la Fonte, Via delle Fontanelle, 18  50014 Fiesole (FI), Italy"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "",
+    "section": "",
+    "text": "Spring 2023, European University Institute\nThe Econometrics of Real Data\njoint with Karina Colombo. Teaching assistant for Prof. Thomas Crossley\n\n\nFall 2022, European University Institute\nThe Econometrics of Causality\nTeaching assistant for Prof. Fabrizia Mealli"
   }
 ]

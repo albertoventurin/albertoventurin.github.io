@@ -1,6 +1,12 @@
+---
+format: 
+  html:
+    toc: false 
+---
+
 # Working papers
 
-### Fleeing the Crowded Nest: Siblings and Leaving the Parental Home
+### Fleeing the Crowded Nest: Siblings and Leaving the Parental Home {style="text-align:left;"}
 
 with [Adriano De Falco](https://www.adrianodefalco.com/home-page) and [Elia Moracci](https://eliamoracci.github.io/)
 
@@ -17,3 +23,7 @@ living in a more crowded nest. We furthermore document response heterogeneity
 by groups of countries, with Western European countries displaying the largest
 responses. Our findings suggest that demographic trends may have attenuated the
 gap in co-residence rates across different European regions.
+
+# Work in progress
+
+### Fertility timing and children outcomes {style="text-align:left;"}

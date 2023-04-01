@@ -3,18 +3,35 @@ project:
   output-dir: docs
 
 website:
-  title: "albertoventurin.github.io"
+  title: ""
+  twitter-card: true
   navbar:
-    left:
+    title: false
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: CV.qmd
+        text: CV
+    left: 
+      - icon: github
+        href: https://github.com/albertoventurin
+      - icon: twitter
+        href: https://twitter.com/albe_venturin
+      - icon: envelope
+        href: mailto:alberto.venturin@eui.eu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alberto-venturin/
+        
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      dark: theme-dark.scss
+      light: theme-light.scss
     css: styles.css
     toc: true
 

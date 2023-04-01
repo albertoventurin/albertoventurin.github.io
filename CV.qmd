@@ -1,0 +1,7 @@
+---
+format: 
+  html:
+    toc: false 
+---
+
+You can find my CV [here](assets/CV_AlbertoVenturin.pdf)
