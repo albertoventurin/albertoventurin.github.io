@@ -4,4 +4,4 @@ format:
     toc: false 
 ---
 
-You can find my CV [here](assets/CV_AlbertoVenturin.pdf)
+[You can find my CV [here](assets/CV_AlbertoVenturin.pdf)]{style="text-align:right;"}
