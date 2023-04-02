@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -133,39 +132,32 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+
+
+<div class="quarto-about-marquee">
+  <div class="about-image-container">
+    <img src="/assets/picture.JPG" class="about-image " style="width: 100%;">
+  </div>
+  <div class="about-contents">
+    <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Alberto Venturin</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-</header>
-
-<p><br></p>
-<div class="grid">
-<div class="g-col-8">
-<p><img src="assets/pic-square.png" class="img-fluid"></p>
-</div>
-<!-- :::{.g} -->
-<!-- ::: -->
-<section id="welcome" class="level3 g-col-4">
-<h3 class="anchored" data-anchor-id="welcome">Welcome !</h3>
+</header> <div id="about">
+<section id="welcome" class="level3">
+<h3 data-anchor-id="welcome">Welcome !</h3>
 <p>I am a 3rd-year PhD candidate in Economics at the European University Institute (EUI) in Florence, Italy.</p>
 <p>I work under the supervision of <a href="https://sites.google.com/site/tfcrossley/">Thomas Crossley</a> and <a href="https://sites.google.com/site/alessandrotarozzi/home">Alessandro Tarozzi</a>.</p>
 <p>My main research interests are applied microeconomics and causal inference, with a particular focus on family economics, health economics and labor economics.</p>
 </section>
+</div> 
+  </div>
 </div>
+
 <section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
+<h2 data-anchor-id="section"></h2>
 <div class="cell">
 <style type="text/css">
 .center {
@@ -178,6 +170,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="center">
 <p>EUI Department of Economics, Villa la Fonte, Via delle Fontanelle, 18 <br> 50014 Fiesole (FI), Italy</p>
 </div>
+
 
 
 </section>
@@ -318,13 +311,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

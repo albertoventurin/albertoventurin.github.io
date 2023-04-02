@@ -1,26 +1,18 @@
+
 ---
 title: "Alberto Venturin"
+about: 
+  template: marquee
+  image: /assets/picture.JPG
+  id: about
 format: 
   html:
     page-layout: article
     toc: false
 engine: knitr
 ---
-<br>
 
-:::{.grid}
-
-:::{.g-col-8}
-![](assets/pic-square.png)
-:::
-
-<!-- :::{.g} -->
-
-<!-- ::: -->
-
-:::{.g-col-4}
-
-
+:::{#about}
 ### Welcome ! 
 
 I am a 3rd-year PhD candidate in Economics at the European University Institute (EUI) in Florence, Italy. 
@@ -29,11 +21,7 @@ I work under the supervision of [Thomas Crossley](https://sites.google.com/site/
 
 My main research interests are applied microeconomics and causal inference, with a particular focus on family economics, health economics and labor economics.
 
-
 :::
-
-:::
-
 
 ##
 
@@ -50,3 +38,5 @@ My main research interests are applied microeconomics and causal inference, with
 EUI Department of Economics, Villa la Fonte, Via delle Fontanelle, 18 <br>
 50014 Fiesole (FI), Italy
 :::
+
+
