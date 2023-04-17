@@ -2,7 +2,7 @@
 title: "Alberto Venturin"
 about: 
   template: solana
-  image: /assets/pic-square.png
+  image: /assets/pic-1024x.jpg
   image-width: 500px
   image-shape: round
   id: about
