@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "",
     "section": "",
-    "text": "You can find my CV here"
+    "text": "Fall 2023, European University Institute\nGIS for Applied Economics"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "teaching.html#lecturer",
+    "href": "teaching.html#lecturer",
     "title": "",
     "section": "",
-    "text": "Working papers\n\nFleeing the Crowded Nest: Siblings and Leaving the Parental Home\nwith Adriano De Falco and Elia Moracci\nWe investigate whether the decision of young adults on when to leave the parental home is influenced by the number of siblings they have, in the context of European countries over the last seventy years. Exploiting random variation in sibship size induced by twin births, we identify the causal effect of having an extra sibling on the timing of home-leaving. We find that one additional sibling speeds up the transition to independent living by one year. We provide evidence that the main mechanism behind our results is a decrease in the value of inter-generational co- residence, as having an extra sibling entails higher privacy costs associated with living in a more crowded nest. We furthermore document response heterogeneity by groups of countries, with Western European countries displaying the largest responses. Our findings suggest that demographic trends may have attenuated the gap in co-residence rates across different European regions.\n\n\n\nWork in progress\n\nFertility timing and children outcomes"
+    "text": "Fall 2023, European University Institute\nGIS for Applied Economics"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\nFall 2022, Fall 2023, European University Institute\nThe Econometrics of Causality\nTeaching assistant for Prof. Fabrizia Mealli\n\n\nSpring 2023, European University Institute\nThe Econometrics of Real Data\njoint with Karina Colombo. Teaching assistant for Prof. Thomas Crossley"
   },
   {
     "objectID": "about.html",
@@ -21,11 +28,25 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "",
+    "section": "",
+    "text": "You can find my CV here"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Working papers",
+    "section": "",
+    "text": "Working papers\n\nFleeing the Crowded Nest: Siblings and Leaving the Parental Home\nwith Adriano De Falco and Elia Moracci\nWe investigate whether the decision of young adults on when to leave the parental home is influenced by the number of siblings they have, in the context of European countries over the last seventy years. Exploiting random variation in sibship size induced by twin births, we identify the causal effect of having an extra sibling on the timing of home-leaving. We find that one additional sibling speeds up the transition to independent living by roughly six months and provide evidence that our results stem from a decrease in the value of living with parents. We interpret our results as the combination of a channel that decreases the value of co-residence and a channel that increases the value of early home-leaving.\n\n\n\nWork in progress\n\nRe-examining the property price premia around ‘good’ schools\nwith Ellen Greaves"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alberto Venturin",
     "section": "",
-    "text": "I am a 3rd-year PhD candidate in Economics at the European University Institute (EUI) in Florence, Italy.\nI work under the supervision of Thomas Crossley and Alessandro Tarozzi.\nMy main research interests are applied microeconomics and causal inference, with a particular focus on family economics, health economics and labor economics."
+    "text": "I am a 3rd-year PhD candidate in Economics at the European University Institute (EUI) in Florence, Italy.\nI work under the supervision of Thomas Crossley and Alessandro Tarozzi.\nMy main research interests are applied microeconomics and causal inference, with a particular focus on family economics, spatial economics and labor economics."
   },
   {
     "objectID": "index.html#section",
@@ -33,12 +54,5 @@
     "title": "Alberto Venturin",
     "section": "",
     "text": "EUI Department of Economics, Villa la Fonte, Via delle Fontanelle, 18  50014 Fiesole (FI), Italy"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "",
-    "section": "",
-    "text": "Spring 2023, European University Institute\nThe Econometrics of Real Data\njoint with Karina Colombo. Teaching assistant for Prof. Thomas Crossley\n\n\nFall 2022, European University Institute\nThe Econometrics of Causality\nTeaching assistant for Prof. Fabrizia Mealli"
   }
 ]
