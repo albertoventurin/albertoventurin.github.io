@@ -3,7 +3,23 @@ format:
   html:
     toc: false 
 ---
+
+## Lecturer 
+
+[_Fall 2023, European University Institute_]{style="font-size:16px"}
+
+[__GIS for Applied Economics__]{.course}
+
 ## Teaching assistant
+
+[_Fall 2022, Fall 2023, European University Institute_]{style="font-size:16px"}
+
+[__The Econometrics of Causality__]{.course}
+
+[Teaching assistant for Prof. Fabrizia Mealli]{style="font-size:16px"}
+
+
+####
 
 [_Spring 2023, European University Institute_]{style="font-size:16px"}
 
@@ -11,10 +27,4 @@ format:
 
 [joint with Karina Colombo. Teaching assistant for Prof. Thomas Crossley]{style="font-size:16px"}
  
-####
 
-[_Fall 2022, European University Institute_]{style="font-size:16px"}
-
-[__The Econometrics of Causality__]{.course}
-
-[Teaching assistant for Prof. Fabrizia Mealli]{style="font-size:16px"}

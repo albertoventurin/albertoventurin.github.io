@@ -11,19 +11,10 @@ format:
 with [Adriano De Falco](https://www.adrianodefalco.com/home-page) and [Elia Moracci](https://eliamoracci.github.io/)
 
 
-We investigate whether the decision of young adults on when to leave the parental
-home is influenced by the number of siblings they have, in the context of European
-countries over the last seventy years. Exploiting random variation in sibship size
-induced by twin births, we identify the causal effect of having an extra sibling on
-the timing of home-leaving. We find that one additional sibling speeds up the
-transition to independent living by one year. We provide evidence that the main
-mechanism behind our results is a decrease in the value of inter-generational co-
-residence, as having an extra sibling entails higher privacy costs associated with
-living in a more crowded nest. We furthermore document response heterogeneity
-by groups of countries, with Western European countries displaying the largest
-responses. Our findings suggest that demographic trends may have attenuated the
-gap in co-residence rates across different European regions.
+We investigate whether the decision of young adults on when to leave the parental home is influenced by the number of siblings they have, in the context of European countries over the last seventy years. Exploiting random variation in sibship size induced by twin births, we identify the causal effect of having an extra sibling on the timing of home-leaving. We find that one additional sibling speeds up the transition to independent living by roughly six months and provide evidence that our results stem from a decrease in the value of living with parents. We interpret our results as the combination of a \textit{crowded nest} channel that decreases the value of co-residence and a \textit{parental care} channel that increases the value of early home-leaving.
 
 # Work in progress
 
-### Fertility timing and children outcomes {style="text-align:left;"}
+### Re-examining the property price premia around ‘good’ schools {style="text-align:left;"}
+
+with [Ellen Greaves](https://sites.google.com/view/ellengreaves/home)
