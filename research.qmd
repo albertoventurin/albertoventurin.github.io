@@ -6,7 +6,7 @@ format:
 
 # Working papers
 
-### [Fleeing the Crowded Nest: Siblings and Leaving the Parental Home](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909059) {style="text-align:left;"}
+### [Siblings and Leaving the Parental Home](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909059) {style="text-align:left;"}
 
 with [Adriano De Falco](https://www.adrianodefalco.com/home-page) and [Elia Moracci](https://eliamoracci.github.io/)
 
