@@ -25,7 +25,7 @@ engine: knitr
 ::: {#about}
 ### Welcome !
 
-I am a 3rd-year PhD candidate in Economics at the European University Institute (EUI) in Florence, Italy.
+I am a PhD student in Economics at the European University Institute (EUI) in Florence, Italy.
 
 I work under the supervision of [Thomas Crossley](https://sites.google.com/site/tfcrossley/) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).
 
