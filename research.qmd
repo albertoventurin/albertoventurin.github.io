@@ -8,13 +8,15 @@ format:
 
 ### [Siblings and Leaving the Parental Home](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909059) {style="text-align:left;"}
 
-with [Adriano De Falco](https://www.adrianodefalco.com/home-page) and [Elia Moracci](https://eliamoracci.github.io/)
+with [Adriano De Falco](https://www.adrianodefalco.com/home-page) and [Elia Moracci](https://eliamoracci.github.io/) _submitted_
 
 
  We investigate whether the decision of young adults on when to leave the parental home is influenced by the number of siblings they have, in the context of European countries over the last seventy years. Using data from two large surveys and exploiting random variation in sibship size induced by twin births, we identify the causal effect of having an extra sibling on the timing of home-leaving. We find that one additional sibling speeds up the transition to independent living by roughly six months. We provide evidence that our results directly stem from a decrease in the value of intergenerational coresidence implied by having an extra sibling.
 
 # Work in progress
 
-### Re-examining the property price premia around ‘good’ schools {style="text-align:left;"}
+### Heterogeneity in the price premia around high performing schools {style="text-align:left;"}
 
 with [Ellen Greaves](https://sites.google.com/view/ellengreaves/home)
+
+_Preliminary draft available upon request_
